@@ -22,13 +22,6 @@ This assignment benchmarks four increasingly sophisticated deep learning approac
 
 ---
 
-## Project Structure
-├── Niyati_25202110_assignment_1_pets.ipynb   # Main notebook (all tasks)
-├── Niyati_25202110_assignment_1_pets.pdf     # Exported PDF report
-└── README.md
-
----
-
 ## Tasks Breakdown
 
 - **Task 1** — Dataset setup and sample image visualisation
